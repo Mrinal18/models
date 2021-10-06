@@ -1,5 +1,7 @@
 ![Logo](https://storage.googleapis.com/tf_model_garden/tf_model_garden_logo.png)
 
+This is just for demo
+
 # Welcome to the Model Garden for TensorFlow
 
 The TensorFlow Model Garden is a repository with a number of different
